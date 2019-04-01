@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 
 <!-- Configuration Start: Please customize following configuration -->
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.discoverycord.com.tw/server.php/Front/home" version="1.0.0">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.discoverycord.com.tw" version="1.0.0">
     
     <name>尖端幹細胞</name>
     <description>尖端醫身為細胞相關儲存、治療、檢測的先軀，從臍帶血、臍帶儲存出發，再到成人周邊血、免疫細胞、脂肪幹細胞、骨髓間質幹細胞，長期投入細胞應用領域，更與花蓮慈濟醫療體系長期策略聯盟，盼能為台灣再生醫學領域再創佳績。</description>
-    <author href="https://www.discoverycord.com.tw/server.php/Front/home" email="corduse@hlmcoltd.com">尖端幹細胞網站</author>
+    <author href="https://www.discoverycord.com.tw" email="corduse@hlmcoltd.com">尖端幹細胞網站</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
